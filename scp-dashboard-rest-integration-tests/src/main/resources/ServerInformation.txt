@@ -1,0 +1,49 @@
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SEC_LoadSecComm  Debug  [SecCommDl::Init] Loading the entrypoint function pointers.
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Secrtl:_SecGetPasswordPolicy()  Debug  Login handle is null; call SecGetPasswordPolicy().
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecCommImpl::sendAckOrFailToSer  Debug  {{user::SD049814}}{{domain::SURROUND}}{{device::fork}}{{node::fork}}{{app::}}{{comment::LOGIN_LEGACY}}
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    TIME_SetMode  Info  {{mode::UTC}}{{domain::SURROUND}}
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    TIME_SetAdjust  Info  {{adjust::0}}{{domain::SURROUND}}
+Server Control Panel (SCP) Viewer
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetTicket  Debug  SecGetTicket start. [Service: SCP_fork@SURROUND]
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    LoginHandle::enterpriseAuthenti  Info  EA - Performing heartbeat [SD049814][Dur=1][Now=1474259124][Last=0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  Enter
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  Secrtl attestation for SD049814@SURROUND not found.
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  secrtl timestamp: ''
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  mfatn  timestamp: ''
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  Exit
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    LoginHandle::createAuthenticato  Debug  ORIGINATOR User [SD049814] Type [0] Domain [SURROUND] Role []
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    LoginHandle::createAuthenticato  Debug  authent->m_prop contents:
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[1]:  '10' = '<empty>'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[2]:  '2' = '0'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[3]:  '3' = '0'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[4]:  '4' = 'SD049814'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[5]:  '5' = '<empty>'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[6]:  '6' = 'SURROUND'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    SecGetUserAttributesExt2 ()  Debug  Current login context is of type [0].
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  Enter
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  Secrtl attestation for SD049814@SURROUND not found.
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  secrtl timestamp: ''
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  mfatn  timestamp: ''
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    _GetMfaAttestationInfo  Debug  Exit
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    LoginHandle::createAuthenticato  Debug  ORIGINATOR User [SD049814] Type [0] Domain [SURROUND] Role []
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    LoginHandle::createAuthenticato  Debug  authent->m_prop contents:
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[1]:  '10' = '<empty>'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[2]:  '2' = '0'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[3]:  '3' = '0'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[4]:  '4' = 'SD049814'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[5]:  '5' = '<empty>'
+18 Sep 2016 23:25:24  n/a - [kg048707]  fork/10813790/1  scpview    Loginhandle::createAuthenticato  Debug      Property[6]:  '6' = 'SURROUND'
+Servers running on node [fork] in domain [SURROUND]
+
+id     description                               msgs     state
+--------------------------------------------------------------------
+147    Custom 200 server -old version            0        running
+203    OpsExec_RCA_GSR - Revenue                 0        running
+
