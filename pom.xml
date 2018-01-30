@@ -2,12 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.cerner.scpdashboard</groupId>
+	
 	<artifactId>scpdashboard</artifactId>
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>scpdashboard Maven Webapp</name>
-	<url>https://github.training.cerner.com/DevCenter/SCP-Dashboard.git</url>
 	<modules>
 		<module>scp-dashboard-lib</module>
 		<module>scp-dashboard-rest-service</module>
@@ -22,7 +21,7 @@
 			</dependency>
 			<!-- system i18n2 -->
 			<dependency>
-				<groupId>com.cerner.system</groupId>
+				
 				<artifactId>system-i18n</artifactId>
 				<version>2.4.1</version>
 			</dependency>
